@@ -7,4 +7,4 @@ The robot will convert the voice you send into text, send it to chatgpt, and the
 2. Replace TELEGRAM_API_TOKEN with the api token of your own bot. Send "/mybots" to BotFather and select @<the name of your bot> -> API Token. 
 
 # Requirements
-`pip install os openai telegram moviepy`
+`pip install openai telegram moviepy`
